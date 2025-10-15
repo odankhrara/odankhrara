@@ -1,22 +1,35 @@
 <h1 align="center">Hi 👋, I'm OM DANKHARA</h1>
-<h3 align="center">Software Engineering | Computer Science @San Francisco State University | Java, Python, Javascript, C/C++.</h3>
+<h3 align="center">MS in Data Analytics @ San Jose State University • B.S. in CS @ San Francisco State University</h3>
+<h4 align="center">Data & Software Engineer — I build data platforms, pipelines, and full-stack services.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=odankhrara&label=Profile%20views&color=0e75b6&style=flat" alt="odankhrara" /> </p>
-
-<img align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="">
-- 📫 How to reach me **omdankhara5803@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omdankhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omdankhara" height="30" width="40" /></a>
-<a href="https://instagram.com/om_dankhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om_dankhara" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=odankhrara&label=Profile%20views&color=0e75b6&style=flat" alt="odankhrara" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img align="right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=odankhrara&show_icons=true&locale=en&layout=compact" alt="odankhrara" /></p>
+- 📍 Based in **San Jose, CA**
+- 🎓 **M.S. in Data Analytics (SJSU, ’26 expected)**; **B.S. in CS (SFSU, ’23)** :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}  
+- 🛠️ **Core stack:** Python, SQL, React, Flask, Docker, Kubernetes, GitHub Actions, AWS/Azure/GCP, Airflow, dbt, Kafka, Spark, Snowflake, PostgreSQL, MongoDB, Terraform :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
+- 📫 Reach me at **omdankhara5803@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=odankhrara&show_icons=true&locale=en" alt="odankhrara" /></p>
+<h3 align="left">Experience highlights</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odankhrara&" alt="odankhrara" /></p>
+- **Software Developer — Associated Students, SFSU (Mar 2024–Jan 2025):**  
+  Built Python/SQL data pipelines with **Airflow/dbt** and **Snowflake**, powering dashboards for **200+ staff**; set up **GitHub Actions → Kubernetes** CI/CD and **CloudWatch** monitoring; cut manual reporting by **50%**. :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}
+
+- **Data Analyst Intern — Narola InfoTech (Jun–Aug 2023):**  
+  Delivered ML models and **Power BI** KPI dashboards; automated testing with **PyTest/Postman** (QA cycle ↓ **40%**); containerized services on **AWS**. :contentReference[oaicite:6]{index=6}
+
+- **Full-Stack Developer — Nirupama (May 2022–Jun 2023):**  
+  Shipped **Flask** microservices; migrated **1M+ records** MySQL → PostgreSQL with zero downtime; built **Playwright** tests (~**85%** coverage) reducing defects by **35%**; deployed with **Docker/Kubernetes**. :contentReference[oaicite:7]{index=7}
+
+<h3 align="left">Selected projects</h3>
+
+- **Analytics Dashboard (Flask + React + Snowflake):** added **Kafka/Spark** streaming; reduced reporting delays by **60%**. :contentReference[oaicite:8]{index=8}  
+- **Customer Segmentation & Insights:** **K-Means** clustering with **Power BI/Tableau**; engagement ↑ **25%**. :contentReference[oaicite:9]{index=9}  
+- **Stock Price Forecasting:** automated **Airflow** regression pipeline; Snowflake storage; reproducible Docker deploys. :contentReference[oaicite:10]{index=10}
+
+<h3 align="left">Languages and Tools</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master
